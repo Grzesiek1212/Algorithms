@@ -1,0 +1,10 @@
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\bin\Debug\Aisdy_labki_3.exe.config
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\bin\Debug\Aisdy_labki_3.exe
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\bin\Debug\Aisdy_labki_3.pdb
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\bin\Debug\Graphs.dll
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\obj\Debug\Aisdy_labki_3.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\obj\Debug\Aisdy_labki_3.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\obj\Debug\Aisdy_la.D4611A08.Up2Date
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\obj\Debug\Aisdy_labki_3.exe
+C:\Users\Grzesiu\source\repos\Aisdy_labki_3\Aisdy_labki_3\obj\Debug\Aisdy_labki_3.pdb

@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grzesiu\\source\\repos\\aisdy6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C0CF6C-B4D9-4D18-9420-BA16F07CB9B6}|aisdy6\\aisdy6.csproj|c:\\users\\grzesiu\\source\\repos\\aisdy6\\aisdy6\\lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C0CF6C-B4D9-4D18-9420-BA16F07CB9B6}|aisdy6\\aisdy6.csproj|solutionrelative:aisdy6\\lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|aisdy6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aisdy6",
+              "DocumentMoniker": "C:\\Users\\Grzesiu\\source\\repos\\aisdy6\\aisdy6\\aisdy6.csproj",
+              "RelativeDocumentMoniker": "aisdy6\\aisdy6.csproj",
+              "ToolTip": "C:\\Users\\Grzesiu\\source\\repos\\aisdy6\\aisdy6\\aisdy6.csproj",
+              "RelativeToolTip": "aisdy6\\aisdy6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T21:49:27.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab06.cs",
+              "DocumentMoniker": "C:\\Users\\Grzesiu\\source\\repos\\aisdy6\\aisdy6\\Lab06.cs",
+              "RelativeDocumentMoniker": "aisdy6\\Lab06.cs",
+              "ToolTip": "C:\\Users\\Grzesiu\\source\\repos\\aisdy6\\aisdy6\\Lab06.cs",
+              "RelativeToolTip": "aisdy6\\Lab06.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:27:05.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

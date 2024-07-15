@@ -1,0 +1,10 @@
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\bin\Debug\aisdy6.exe.config
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\bin\Debug\aisdy6.exe
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\bin\Debug\aisdy6.pdb
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\bin\Debug\Graphs.dll
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\obj\Debug\aisdy6.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\obj\Debug\aisdy6.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\obj\Debug\aisdy6.csproj.Up2Date
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\obj\Debug\aisdy6.exe
+C:\Users\Grzesiu\source\repos\aisdy6\aisdy6\obj\Debug\aisdy6.pdb

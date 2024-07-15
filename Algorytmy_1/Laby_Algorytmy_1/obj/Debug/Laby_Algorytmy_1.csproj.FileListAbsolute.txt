@@ -1,0 +1,9 @@
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\bin\Debug\Laby_Algorytmy_1.exe.config
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\bin\Debug\Laby_Algorytmy_1.exe
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\bin\Debug\Laby_Algorytmy_1.pdb
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\obj\Debug\Laby_Algorytmy_1.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\obj\Debug\Laby_Algorytmy_1.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\obj\Debug\Laby_Algorytmy_1.csproj.CopyComplete
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\obj\Debug\Laby_Algorytmy_1.exe
+C:\Users\Grzesiu\source\repos\Laby_Algorytmy_1\Laby_Algorytmy_1\obj\Debug\Laby_Algorytmy_1.pdb

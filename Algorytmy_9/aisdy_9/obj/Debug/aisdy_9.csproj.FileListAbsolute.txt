@@ -1,0 +1,10 @@
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\bin\Debug\aisdy_9.exe.config
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\bin\Debug\aisdy_9.exe
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\bin\Debug\aisdy_9.pdb
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\bin\Debug\Graphs.dll
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\obj\Debug\aisdy_9.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\obj\Debug\aisdy_9.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\obj\Debug\aisdy_9.csproj.Up2Date
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\obj\Debug\aisdy_9.exe
+C:\Users\Grzesiu\source\repos\aisdy_9\aisdy_9\obj\Debug\aisdy_9.pdb

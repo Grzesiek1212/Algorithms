@@ -1,0 +1,9 @@
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\bin\Debug\zad_asidy_lab_2.exe.config
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\bin\Debug\zad_asidy_lab_2.exe
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\bin\Debug\zad_asidy_lab_2.pdb
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\obj\Debug\zad_asidy_lab_2.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\obj\Debug\zad_asidy_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\obj\Debug\zad_asid.164CD8B4.Up2Date
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\obj\Debug\zad_asidy_lab_2.exe
+C:\Users\Grzesiu\source\repos\zad_asidy_lab_2\zad_asidy_lab_2\obj\Debug\zad_asidy_lab_2.pdb

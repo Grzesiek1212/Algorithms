@@ -1,0 +1,10 @@
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\obj\Debug\aisy_4_official.csproj.AssemblyReference.cache
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\obj\Debug\aisy_4_official.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\bin\Debug\aisy_4_official.exe.config
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\bin\Debug\aisy_4_official.exe
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\bin\Debug\aisy_4_official.pdb
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\bin\Debug\Graphs.dll
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\bin\Debug\TestSet.dll
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\obj\Debug\aisy_4_o.E268EA2D.Up2Date
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\obj\Debug\aisy_4_official.exe
+C:\Users\Grzesiu\source\repos\aisy_4_official\aisy_4_official\obj\Debug\aisy_4_official.pdb

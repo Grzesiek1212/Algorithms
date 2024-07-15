@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grzesiu\\source\\repos\\aisy_4_official\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}|aisy_4_official\\aisy_4_official.csproj|c:\\users\\grzesiu\\source\\repos\\aisy_4_official\\aisy_4_official\\lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}|aisy_4_official\\aisy_4_official.csproj|solutionrelative:aisy_4_official\\lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab04.cs",
+              "DocumentMoniker": "C:\\Users\\Grzesiu\\source\\repos\\aisy_4_official\\aisy_4_official\\Lab04.cs",
+              "RelativeDocumentMoniker": "aisy_4_official\\Lab04.cs",
+              "ToolTip": "C:\\Users\\Grzesiu\\source\\repos\\aisy_4_official\\aisy_4_official\\Lab04.cs",
+              "RelativeToolTip": "aisy_4_official\\Lab04.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:12:45.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

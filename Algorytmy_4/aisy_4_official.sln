@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aisy_4_official", "aisy_4_official\aisy_4_official.csproj", "{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E85EE9A-85B4-4F3D-9315-94FB83150AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32D040E-2362-4D32-B330-9E3351322555}
+	EndGlobalSection
+EndGlobal
